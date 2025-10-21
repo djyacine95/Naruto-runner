@@ -22,7 +22,7 @@ Your goal is to stay alive as long as possible while your score increases over t
 ##  Technologies Used
 - **Language:** Java  
 - **Library:** Swing (2D graphics and UI)  
-- **IDE:** IntelliJ IDEA / Eclipse  
+- **IDE:** IntelliJ IDEA
 
 ---
 
