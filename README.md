@@ -29,5 +29,5 @@ Your goal is to stay alive as long as possible while your score increases over t
 ##  How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<djyacine95>/NarutoRunner.git
+   git clone https://github.com/djyacine95/NarutoRunner.git
    cd NarutoRunner
